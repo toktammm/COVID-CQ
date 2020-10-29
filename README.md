@@ -14,4 +14,5 @@ Bibtex: @article{mutlu2020stance, title={A Stance Data Set on Polarized Conversa
 
 PS: Labels representation: 0 -> None/Neutral 1 -> Against 2 -> Favor
 
+## NEED HELP? 
 We are aware that some of the tweets are removed from Twitter. If you want to access those deleted tweet items and/or have any trouble related to hydrating, feel free to reach out to us. Email addresses: ece.mutlu@ucf.edu, Toktam.Oghaz@ucf.edu, Jasser.Jasser@ucf.edu
