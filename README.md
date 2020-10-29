@@ -13,3 +13,5 @@ APA: Mutlu, E. C., Oghaz, T., Jasser, J., Tutunculer, E., Rajabi, A., Tayebi, A.
 Bibtex: @article{mutlu2020stance, title={A Stance Data Set on Polarized Conversations on Twitter about the Efficacy of Hydroxychloroquine as a Treatment for COVID-19}, author={Mutlu, Ece C and Oghaz, Toktam and Jasser, Jasser and Tutunculer, Ege and Rajabi, Amirarsalan and Tayebi, Aida and Ozmen, Ozlem and Garibay, Ivan}, journal={Data in Brief}, pages={106401}, year={2020}, publisher={Elsevier} }
 
 PS: Labels representation: 0 -> None/Neutral 1 -> Against 2 -> Favor
+
+We are aware that some of the tweets are removed from Twitter. If you want to access those deleted tweet items and/or have any trouble related to hydrating, feel free to reach out to us. Email addresses: ece.mutlu@ucf.edu, Toktam.Oghaz@ucf.edu, Jasser.Jasser@ucf.edu
